@@ -1,4 +1,4 @@
-const TARGET_URL = "https://toonstream.dad/home/";
+const TARGET_URL = "https://toonstream.vip/home/";
 
 function corsHeaders() {
   return {
